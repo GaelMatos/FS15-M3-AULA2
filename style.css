@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color: #fff159;
+    --tx-color: #fff159;
+ 
+}
+.bg-color1{
+    background-color: #fff159;
+}
+.tx-color{
+    color: #fff159;
+}
+.bg-color2{
+    color: #3483fa;
+}
+.tx-color2{
+    color: #3483fa;
+}
